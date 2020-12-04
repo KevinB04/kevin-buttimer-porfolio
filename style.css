@@ -1,12 +1,30 @@
-#navbar-brand {
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 10px;  
+    border: 1px solid #ccc; 
+    border-radius: 2px; 
+    box-sizing: border-box; 
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
     background-color: teal;
-}
-
-h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-h2 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 24px;
-}
+    color: white;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 0px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
