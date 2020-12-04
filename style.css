@@ -1,3 +1,11 @@
+#navbar toggler {
+    background-color: teal;
+}
+
+h1 {
+    color: teal;
+}
+
 
 input[type=text], select, textarea {
     width: 100%; 
