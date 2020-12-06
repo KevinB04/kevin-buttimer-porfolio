@@ -1,4 +1,13 @@
- {
+.navbar-brand {
+  background: teal;
+  font-color: white;
+}
+
+body {
+  background-image: url("https://files.slack.com/files-pri/T01FHC8HG1X-F01FSJRP571/ignasi_pattern_s.png");
+}
+
+{
     background-color: teal;
 }
 
