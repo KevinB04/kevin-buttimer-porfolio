@@ -3,8 +3,8 @@
     font-color: white;
 }
 
-h1 {
-    color: teal;
+.jumbotron {
+    background-color: transparent;
 }
 
 body {
