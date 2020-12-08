@@ -1,6 +1,14 @@
+.main {
+    max-width: 660px;
+    display: flex;
+    align-content: center;
+    background-color: white;
+    margin-left: 250px;
+}
+
 .navbar-brand {
     background: teal;
-    font-color: white;
+    color: white;
 }
 
 .jumbotron {
@@ -9,4 +17,8 @@
 
 body {
     background-image: url("https://files.slack.com/files-pri/T01FHC8HG1X-F01FSJRP571/ignasi_pattern_s.png");
+}
+
+.pic {
+    width: 150px;
 }
