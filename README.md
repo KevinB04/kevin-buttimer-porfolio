@@ -6,8 +6,6 @@ This project was a great opportunity for me to apply what I have learned about w
 - Create a navbar
 - Maintain a responsive layout and images
 
-![alt image](./assets/images/kevin-buttimer-portfolio.png)
-
 ## Installation
 
 In order to run this app, you should fork the repo, clone it, and open in your default browser.
