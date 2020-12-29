@@ -12,7 +12,11 @@ In order to run this app, you should fork the repo, clone it, and open in your d
 
 ## Usage
 
+<<<<<<< HEAD
 [Portfolio](https://kevinb04.github.io/kevin-buttimer-porfolio/)
+=======
+https://user-images.githubusercontent.com/73902490/101855241-2085ad80-3b31-11eb-9696-46e6d066ba19.png
+>>>>>>> 9ab9cbc4d695fc72dde44d50c9cbbd7a78283f1e
 
 You have the opportunity to view multiple pages on my page. You can navigate through my site using the "About", "Porfolio", and "Contact" tabs.
 
