@@ -22,3 +22,7 @@ p {
     margin-bottom: 32px;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
