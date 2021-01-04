@@ -11,6 +11,9 @@ body {
   background-image: url("https://user-images.githubusercontent.com/73902490/101559559-5be87680-398f-11eb-828c-ee9fe6458478.png");
 }
 
+p {
+  display: flex;
+}
 
 h1 {
     color: teal;
