@@ -12,6 +12,7 @@ In order to run this app, you should fork the repo, clone it, and open in your d
 
 ## Usage
 
+[Portfolio](/assets/images/portfolio.jpg)
 
 [Kevin Buttimer](https://kevinb04.github.io/kevin-buttimer-porfolio/)
 
