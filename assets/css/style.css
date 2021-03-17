@@ -63,3 +63,22 @@ input[type=text], select, textarea {
   .footer {
     background: teal;
   }
+
+  .main {
+    max-width: 660px;
+    display: flex;
+    align-content: center;
+    background-color: white;
+    margin-left: 250px;
+}
+
+p {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

@@ -1,5 +1,16 @@
 # kevin-buttimer-portfolio
 
+![GitHub Logo](https://img.shields.io/badge/license-MIT-green)
+
+ ## Table of Contents
+   - [Description](#description)
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Credits](#credits)
+   - [Contributions](#Contributions)
+   - [License](#license)
+
+## Description
 This project was a great opportunity for me to apply what I have learned about web development in order to create my own website. Here are a few things that I wished to accomplish:
 
 - Use semantic elements so that my site would be easily accessible.
@@ -12,9 +23,9 @@ In order to run this app, you should fork the repo, clone it, and open in your d
 
 ## Usage
 
-[Portfolio](/assets/images/portfolio.jpg)
-
 [Kevin Buttimer](https://kevinb04.github.io/kevin-buttimer-porfolio/)
+
+![Portfolio](/assets/images/portfolio.jpg)
 
 You have the opportunity to view multiple pages on my page. You can navigate through my site using the "About", "Porfolio", and "Contact" tabs.
 
@@ -22,7 +33,30 @@ You have the opportunity to view multiple pages on my page. You can navigate thr
 
 A huge thank you to my instructor, TAs, fellow classmates, and my tutor for their guidance with this project.
 
+## Contributions
+
+I would be happy to hear any ideas for my site!
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-Copyright (c) [2020] [Kevin Buttimer]
+
+Copyright (c) [2021] [Kevin Buttimer]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
