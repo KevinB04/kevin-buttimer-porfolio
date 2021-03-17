@@ -1,14 +1,16 @@
 .navbar-brand {
-  background: teal;
+  background-color: teal;
   color: white;
+  font-size: 24px;
 }
 
 .jumbotron {
   background-color: transparent;
+  
 }
 
 body {
-  background-image: url("https://user-images.githubusercontent.com/73902490/101559559-5be87680-398f-11eb-828c-ee9fe6458478.png");
+  background-color: lightblue;
 }
 
 .p1 {
@@ -27,7 +29,7 @@ body {
 }
 
 h1 {
-    color: teal;
+    color: black;
 }
 
 input[type=text], select, textarea {
@@ -73,12 +75,24 @@ input[type=text], select, textarea {
 }
 
 p {
-  text-align: center;
-  font-size: 48px;
-  margin-bottom: 32px;
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 18px;
 }
 
 img {
   width: 100%;
   height: auto;
+}
+
+.github {
+  font-size: 18px;
+}
+
+.linkedin {
+  text-align: 
+}
+
+.resume {
+  
 }
