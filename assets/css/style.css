@@ -81,18 +81,14 @@ p {
 }
 
 img {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
-.github {
+.links {
   font-size: 18px;
 }
 
-.linkedin {
-  text-align: 
-}
-
-.resume {
-  
+.projects {
+  font-size: 32px;
 }
