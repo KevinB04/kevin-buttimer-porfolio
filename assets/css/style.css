@@ -5,10 +5,6 @@
   padding: 4px;
 }
 
-.nav-link {
-
-}
-
 .jumbotron {
   background-color: transparent;
   padding: 24px;
@@ -96,4 +92,9 @@ img {
 
 .projects {
   font-size: 32px;
+}
+
+.m-1 {
+  width: 100%;
+  height: auto;
 }
