@@ -72,7 +72,6 @@ input[type=text], select, textarea {
     margin-bottom: 0px;
     margin-left: 100px;
     margin-right: 100px;
-    clear: both;
     position: relative;
     bottom: 0px;
     left: 0px;
@@ -99,9 +98,23 @@ img {
   height: auto;
 }
 
-.links {
+.github {
   font-size: 18px;
 }
+
+.linkedin {
+  font-size: 18px;
+  
+}
+
+.resume {
+  font-size: 18px;
+  
+}
+
+/* .links {
+  font-size: 18px;
+} */
 
 .projects {
   font-size: 32px;
